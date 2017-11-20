@@ -16,6 +16,8 @@ mp=1;
 g=9.8;
 %Dummy mass
 md=1;
+%initial x1
+x1initial=1;
 %Opposite Position x2
 x2=1;
 % %System Moment of Inertia: I=m*r^2
