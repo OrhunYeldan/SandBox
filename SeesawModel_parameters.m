@@ -27,4 +27,4 @@ x2=1;
 %Input Voltage
 InputVoltage=1;
 %Test Step Input
-testStep=1;
+testStep=0;
