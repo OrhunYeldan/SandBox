@@ -5,7 +5,7 @@ J=0.1;
 L=0.1;
 R=0.1;
 b=0.1;
-K=3;
+K=0.1;
 %Wheels
 rwheel=1;
 %Robot
@@ -17,7 +17,7 @@ g=9.8;
 %Dummy mass
 md=1;
 %initial x1
-x1initial=1;
+x1initial=1.1;
 %Opposite Position x2
 x2=1;
 % %System Moment of Inertia: I=m*r^2
