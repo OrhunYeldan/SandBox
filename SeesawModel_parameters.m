@@ -1,11 +1,11 @@
 clear all;
 global mr md mp x2;
 %Motor
-J=1;
-L=1;
-R=1;
-b=1;
-K=1;
+J=0.1;
+L=0.1;
+R=0.1;
+b=0.1;
+K=3;
 %Wheels
 rwheel=1;
 %Robot
